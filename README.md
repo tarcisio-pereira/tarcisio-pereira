@@ -3,7 +3,7 @@
 -  🏦 Trabalho com Qualidade de Sorftware há 2 anos 
 -  💻 Estou cursando o 8º período do curso de Engenharia da computação
 -  🏡 Itaboraí - RJ - Brasil   
--  Estudando Python e Robotframework 
+-  📚 Estudando Python e Robotframework 
  ##
  
 <div align="center">
