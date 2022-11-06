@@ -1,4 +1,4 @@
-## Falaaa Galera, Tudo na paix? Eu sou Tarcísio Pereira 
+## Falaaa Galera, tudo na paix? Eu sou Tarcísio Pereira 
 
 -  🏦 Trabalho com Qualidade de Sorftware há 3 anos 
 -  💻 Estou cursando o 8º período do curso de Engenharia da computação
