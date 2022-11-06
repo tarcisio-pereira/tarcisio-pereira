@@ -1,11 +1,10 @@
-## E aeee, tudo certo? Eu sou Tarcísio Mendes
+## Falaaa Galera, Tudo na paix? Eu sou Tarcísio Pereira 
 
--  🏦 Trabalho com Qualidade de Sorftware há 2 anos 
+-  🏦 Trabalho com Qualidade de Sorftware há 3 anos 
 -  💻 Estou cursando o 8º período do curso de Engenharia da computação
 -  🏡 Itaboraí - RJ - Brasil   
 -  📚 Estudando Python e Robotframework 
  ##
- 
 <div align="center">
   <a href="https://github.com/tarcisio-pereira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tarcisio-pereira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
