@@ -1,9 +1,11 @@
 ## Falaaa Galera, tudo na paix? Eu sou Tarcísio Pereira 
 
 -  🏦 Trabalho com Qualidade de Sorftware há 3 anos 
--  💻 Estou cursando o 8º período do curso de Engenharia da computação
+-  💻 Estou cursando o 9º período do curso de Engenharia da computação
 -  🏡 Itaboraí - RJ - Brasil   
 -  📚 Estudando Python e Robotframework 
+-  C#
+-  asp.net 
  ##
 <div align="center">
   <a href="https://github.com/tarcisio-pereira">
