@@ -1,11 +1,11 @@
-## Falaaa Galera, tudo na paix? Eu sou Tarcísio Pereira 
+## Eu sou Tarcísio Pereira...
 
 -  🏦 Trabalho com Qualidade de Sorftware há 3 anos 
 -  💻 Estou cursando o 9º período do curso de Engenharia da computação
 -  🏡 Itaboraí - RJ - Brasil   
--  📚 Estudando Python e Robotframework 
--  C#
--  asp.net 
+-  📚 Estudando c# e ASP.NET  
+-  🛠 Atualmente trabalho como QA automatizador para plataforma mobile utilizando Robotframework com a biblioteca Appium 
+
  ##
 <div align="center">
   <a href="https://github.com/tarcisio-pereira">
