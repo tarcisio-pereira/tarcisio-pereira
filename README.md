@@ -1,6 +1,6 @@
 ## Eu sou Tarcísio Pereira...
 
--  🏦 TQualidade de Sorftware 
+-  🏦 Qualidade de Sorftware 
 -  💻 Estou cursando o 9º período do curso de Engenharia da computação
 -  🏡 Itaboraí - RJ - Brasil   
 -  📚 Estudando c# e ASP.NET  
