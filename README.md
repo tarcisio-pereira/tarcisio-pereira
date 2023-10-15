@@ -1,10 +1,10 @@
 ## Eu sou Tarcísio Pereira...
 
--  🏦 Qualidade de Sorftware 
--  💻 Estou cursando o 9º período do curso de Engenharia da computação
--  🏡 Itaboraí - RJ - Brasil   
--  📚 Estudando c# e ASP.NET  
--  🛠 Atualmente trabalho como QA automatizador para plataforma mobile utilizando Robotframework com a biblioteca Appium 
+-  👨🏻‍💻 Quality Assurance Engineer
+-  💻 Estou cursando o 10º período do curso de Engenharia da Computação
+-  🏡 Itaboraí - RJ - Brasil     
+-  🛠 Atualmente trabalho como QA automatizador para plataforma mobile utilizando Robotframework com a biblioteca Appium
+-  📚 Estudando C# e ASP.NET
 
  ##
 <div align="center">
