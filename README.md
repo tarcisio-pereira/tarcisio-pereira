@@ -1,10 +1,8 @@
 ## Repo.. do Tarcísio Pereira...
 
 -  👨🏻‍💻 Quality Assurance Engineer
--  💻 Estou cursando o 10º período do curso de Engenharia da Computação
+-  💻 Engenharia da Computação
 -  🏡 Itaboraí - RJ - Brasil     
--  🛠 Atualmente trabalho como QA automatizador para plataforma mobile utilizando Robotframework com a biblioteca Appium
--  📚 Estudando C# e ASP.NET
 
  ##
 <div align="center">
