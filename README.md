@@ -16,7 +16,7 @@
   <img align="center" alt="Tarcisio-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Tarcisio-robotframework" height="40" width="50" src="https://www.svgrepo.com/show/374049/robotframework.svg">
   <img align="center" alt="Tarcisio-appium" height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/appium.svg">
-  <img align="center" alt="Tarcisio-selenium" height="40" width="50" src="https://seeklogo.com/images/S/selenium-logo-DB9103D7CF-seeklogo.com.png">
+  <img align="center" alt="Sonar Alert" height="40" width="50" src="https://sonarcloud.io/api/project_badges/measure?project=tarcisio-pereira_full-cycle-ci&metric=alert_status">
 </div>
   
   ##
